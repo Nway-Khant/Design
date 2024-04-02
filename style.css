@@ -107,7 +107,7 @@ section.card{
     font-style: italic;
     padding: .25rem;
     font-weight: var(--fw-b);
-    color: var(--background-color);
+    color: var(--accent-color-dark);
 }
 
 .card ul  {
